@@ -15,7 +15,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarnar&show_icons=true" alt="oscarnar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarnar&show_icons=true" alt="oscarnar" /></p> -->
+
+[![oscarnar's github stats](https://github-readme-stats.vercel.app/api?&username=oscarnar&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnar&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar)
 
 <p align="center">
 <a href="https://codepen.io/oscarnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="oscarnar" height="30" width="30" /></a>
