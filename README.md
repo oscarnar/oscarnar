@@ -14,8 +14,12 @@
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" 
 
 
-[![oscarnars github stats](https://github-readme-stats.vercel.app/api?&username=oscarnar&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnar&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar)
+[![oscarnars github stats](https://github-readme-stats.vercel.app/api?&username=oscarnar&count_private=true&theme=noctis_minimus&hide_border=true&show_icons=true)](https://github.com/oscarnar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarnar&theme=noctis-minimus&hide_border=true)](https://github.com/oscarnar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnar&layout=compact&hide_border=true&theme=noctis_minimus&show_icons=true)](https://github.com/oscarnar)
+
+<!-- [![oscarnars github stats](https://github-readme-stats.vercel.app/api?&username=oscarnar&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnar&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/oscarnar) -->
 
 
 <p align="center">
