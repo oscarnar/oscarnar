@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarnar" alt="oscarnar" /> </p>
 
-- 🔭 I’m currently working as a Flutter Developer at [Paulonia](https://paulonia.dev).
+- 🔭 I’m currently working as a Flutter Developer at [Somnio Software](https://somniosoftware.com/).
 
 - 🌱 I’m currently learning **Flutter** and **AI**
 
